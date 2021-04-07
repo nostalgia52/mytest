@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-06 15:27:28
- * @LastEditTime: 2021-04-07 17:34:49
+ * @LastEditTime: 2021-04-07 17:51:49
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \新建文件夹 (2)\my-test\src\views\Home.vue
@@ -42,7 +42,7 @@ export default {
       width: 6.25rem;
     }
     .hello{
-      font-size: .32rem;
+      font-size: .4rem;
     }
   }
 </style>
